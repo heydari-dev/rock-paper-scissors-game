@@ -1,6 +1,7 @@
 # Rock Paper Scissors Game 🎮
 
 A simple Rock-Paper-Scissors game implemented in Python with score tracking and timing.
+
 ## Features 🚀
 - Play against the computer.
 - Score tracking with JSON storage.
@@ -24,8 +25,6 @@ A simple Rock-Paper-Scissors game implemented in Python with score tracking and 
    ```bash
    python Rock_paper_scissors_timer.py
    
-3. Follow the prompts and enjoy the game!
-
 ## Contributing
 
 Feel free to submit issues or fork the project to make enhancements. Contributions are welcome!
